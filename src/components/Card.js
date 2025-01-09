@@ -57,7 +57,9 @@ export default function Card() {
     const fetchWeather = async () => {
       if (clicked) {
        
-        const url = `https://api.weatherapi.com/v1/current.json?key=d562892654984c76a8965855242710&q=${result}&aqi=no`;
+        const url = `https://cors-anywhere.herokuapp.com/https://api.weatherapi.com/v1/current.json?key=d562892654984c76a8965855242710&q=${result}&aqi=no`;
+
+        
         try {
           
           const response = await fetch(url);
