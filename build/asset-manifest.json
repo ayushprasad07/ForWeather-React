@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ForWeather-React/static/css/main.7b0408c6.css",
+    "main.js": "/ForWeather-React/static/js/main.880b5578.js",
+    "static/js/453.9882e5fa.chunk.js": "/ForWeather-React/static/js/453.9882e5fa.chunk.js",
+    "static/media/weather.jpg": "/ForWeather-React/static/media/weather.8a7ca3c351e38b81cf4b.jpg",
+    "static/media/bootstrap-icons.woff?": "/ForWeather-React/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/ForWeather-React/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/pressure-Photoroom.png": "/ForWeather-React/static/media/pressure-Photoroom.f74d4c8422f4a3216833.png",
+    "static/media/uv-index.png": "/ForWeather-React/static/media/uv-index.d9a3f71f7efb86362e00.png",
+    "static/media/air.png": "/ForWeather-React/static/media/air.f108c2fe72be0313ae56.png",
+    "static/media/wind.png": "/ForWeather-React/static/media/wind.09f8e92b3d6dfbeda83b.png",
+    "index.html": "/ForWeather-React/index.html",
+    "main.7b0408c6.css.map": "/ForWeather-React/static/css/main.7b0408c6.css.map",
+    "main.880b5578.js.map": "/ForWeather-React/static/js/main.880b5578.js.map",
+    "453.9882e5fa.chunk.js.map": "/ForWeather-React/static/js/453.9882e5fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b0408c6.css",
+    "static/js/main.880b5578.js"
+  ]
+}
